@@ -9,14 +9,14 @@
 
 ## 书生大模型实战营第3期作业：入门岛1-Linux 基础知识
 
-[https://zhuanlan.zhihu.co]()m/p/711382156
+[https://zhuanlan.zhihu.com/p/711382156](https://zhuanlan.zhihu.com/p/711382156)
 
 
 ## 书生大模型实战营第3期作业：入门岛2-Python 前置基础
 
-[https://zhuanlan.zhihu.com/p/711633021]()
+[https://zhuanlan.zhihu.com/p/711633021]([https://zhuanlan.zhihu.com/p/711633021]())
 
 
 ## 书生大模型实战营第3期作业：入门岛3-Git 基础知识
 
-[https://zhuanlan.zhihu.com/p/711846960]()
+[https://zhuanlan.zhihu.com/p/711846960]([https://zhuanlan.zhihu.com/p/711846960]())
